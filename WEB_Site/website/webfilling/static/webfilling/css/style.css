@@ -1,0 +1,33 @@
+{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: black;
+    color: Gold
+}
+header {
+    display: flex;
+    justify-content: left;
+}
+.Logo, .Top_menu{
+    display: inline-block;
+    margin-right: 320px;
+}
+.Top_menu li{
+    display: inline-block;
+    margin-right: 20px;
+
+}
+.Top_menu a{
+    font-family: arial;
+    font-size: 20px;
+    color: White;
+    text-decoration: none;
+
+}
+.Logo h1{
+    font-family: arial;
+    font-size: 40px;
+    color: Blue;
+}
